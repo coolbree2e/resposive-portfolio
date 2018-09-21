@@ -38,7 +38,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: red;
+  color: rgb(0,151,0);
 }
 
 h1 {
@@ -77,7 +77,7 @@ h3 {
   color: #fff;
   text-align: center;
   text-decoration: none;
-  background: red;
+  background: rgb(0,151,0);
 }
 
 nav {
@@ -109,7 +109,7 @@ footer {
   color: #ccc;
   text-align: center;
   background: #666;
-  border-top: 8px solid red;
+  border-top: 8px solid rgb(0,151,0);
   height: 50px;
 }
 
@@ -145,7 +145,7 @@ h2 {
   position: relative;
   float: left;
   width: 274px;
-  margin: 20px 0 25px;
+  margin: 20px  25px;
   overflow: auto;
 }
 
@@ -169,10 +169,12 @@ h2 {
   line-height: 30px;
   color: #fff;
   text-align: center;
-  background: red;
+  background: rgb(0,151,0);
   border-bottom: 0;
 }
-
+.work h6{
+  position: relative;
+}
 .auth-image {
   float: left;
   width: 200px;
@@ -217,7 +219,7 @@ input[type=submit] {
   font-size: 18px;
   color: #fff;
   cursor: pointer;
-  background: red;
+  background: rgb(0,151,0);
   border: 0 none;
 }
 
